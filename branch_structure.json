@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/referrals-audit-627",
+    "fix/users-access-log-572",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/referrals-audit-627": "main",
+    "fix/users-access-log-572": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/referrals-audit-627",
+    "fix/users-access-log-572",
+    "origin"
+  ]
+}
